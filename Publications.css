@@ -22,4 +22,4 @@
 
 @media (max-width: 767px){ .u-section-2 .u-text-2 {margin-right: 423px} }
 
-@media (max-width: 575px){ .u-section-2 .u-text-2 {margin-right: 223px} }.u-section-3 .u-sheet-1 {min-height: 83px}
+@media (max-width: 575px){ .u-section-2 .u-text-2 {width: auto; margin-right: 45px} }.u-section-3 .u-sheet-1 {min-height: 83px}
